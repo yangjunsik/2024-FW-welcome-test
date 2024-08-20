@@ -25,7 +25,7 @@ class Fan {
 
     public void setPrice(int price){
         this.price = price;
-    }
+    } 
 }
 
 public class f1 {
